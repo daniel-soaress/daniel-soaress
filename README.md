@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-    If you want to do a project with me or chat, don't hesitate to send me a message: ⤵️
+    If you want to do a project with me or chat, don't hesitate to send me a message:⤵️
 </p>
 
 <p align="left">
