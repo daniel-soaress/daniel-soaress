@@ -30,12 +30,12 @@
 
 </p> 
 
-<div align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSoaress)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSoaress)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true)  
+
+<div align="left">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanielSoaress)
 </div>
