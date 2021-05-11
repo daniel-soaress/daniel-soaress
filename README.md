@@ -38,10 +38,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=onedark" max-width="400" width="400"/>
   </a>
 
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanielSoaress)
 </p>
 
 <!--
