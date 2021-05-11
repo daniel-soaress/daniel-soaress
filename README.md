@@ -28,7 +28,15 @@
   <a href="https://www.linkedin.com/in/daniel-soaress" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-soaress/"/></a>
 
-</p>  
+</p> 
+
+<div align="left">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSoaress)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanielSoaress)
+</div>
 
 <!--
 **DanielSoaress/DanielSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
