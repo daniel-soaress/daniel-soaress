@@ -30,11 +30,11 @@
 
 </p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSoaress)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSoaress)
 
 <p align="left">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=onedark)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanielSoaress)
 </p>
