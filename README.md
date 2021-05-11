@@ -1,24 +1,24 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá, meu nome é Daniel 🌱, sou desenvolvedor <strong>Front-End</strong>, apesar de ter minha parte generalista, curioso nato sempre em busca de novos desafios. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+<p align="left">
+  Hi, my name is Daniel 🌱, i'm <strong>Front-End</strong> developer, despite having my generalist part, native curious always in search for news challenges. I'm avaible for conversations and works, if you need, stay free to contact me.
 </p>
 
 <p align="left">
-  💬 Habilidades: <strong>HTML, CSS, JavaScript, Vue.Js, Bootstrap, PHP, Laravel.</strong>
+  💬 Skills: <strong>HTML, CSS, JavaScript, Vue.Js, Bootstrap, PHP, Laravel.</strong>
 </p>
 
 <p align="left">
-  💬 Aprendendo: <strong>Node Js, Express, TypeScript.</strong>
+  💬 Learning: <strong>Node Js, Express, TypeScript.</strong>
 </p>
 
 <p align="left">
-  💬 Interesse em Aprender: <strong>React, React.Native, Python, UX, UI.</strong>
+  💬 Interest in learning: <strong>React, React.Native, Python, UX, UI.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo ou bater papo, não hesite em me enviar uma mensagem:: ⤵️
+    If you want to do a project with me or chat, don't hesitate to send me a message: ⤵️
 </p>
 
 <p align="left">
