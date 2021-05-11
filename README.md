@@ -30,9 +30,7 @@
 
 </p> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="right">
-   <img src="https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=onedark" max-width="400" width="400"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=onedark" align="right/>
 
 
 <!--
