@@ -30,7 +30,9 @@
 
 </p> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true" align="center"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true" align="center"/>
+</p>
 
 
 <!--
