@@ -35,7 +35,7 @@
 
 <div align="left">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSoaress&show_icons=true&theme=dracula)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanielSoaress)
 </div>
