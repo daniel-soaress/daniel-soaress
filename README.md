@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  💬 Skills: 
-      :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP, Java and SQL.</strong>
-      :arrow_forward: Frameworks: <strong>Electron, Vue.Js, Laravel and Bootstrap.</strong>
-      :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong>
-      :arrow_forward:	Tools:   <strong>Git, Photoshop and Yarn.</strong>
+  💬 Skills: <br>
+      :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP, Java and SQL.</strong> <br>
+      :arrow_forward: Frameworks: <strong>Electron, Vue.Js, Laravel and Bootstrap.</strong> <br>
+      :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong> <br>
+      :arrow_forward:	Tools:   <strong>Git, Photoshop and Yarn.</strong> <br>
 </p>
 
 <p align="left">
