@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  💬 Skills: <strong>HTML, CSS, JavaScript, Vue.Js, Bootstrap, PHP, Laravel.</strong>
+  💬 Skills: 
+      :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP, Java and SQL.</strong>
+      :arrow_forward: Frameworks: <strong>Electron, Vue.Js, Laravel and Bootstrap.</strong>
+      :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong>
+      :arrow_forward:	Tools:   <strong>Git, Photoshop and Yarn.</strong>
 </p>
 
 <p align="left">
