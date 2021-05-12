@@ -8,10 +8,10 @@
 
 <p align="left">
   💬 Skills: <br>
-      :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP, Java and SQL.</strong> <br>
-      :arrow_forward: Frameworks: <strong>Electron, Vue.Js, Laravel and Bootstrap.</strong> <br>
-      :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong> <br>
-      :arrow_forward:	Tools:   <strong>Git, Photoshop and Yarn.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP, Java and SQL.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>Electron, Vue.Js, Laravel and Bootstrap.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	Tools:   <strong>Git, Photoshop and Yarn.</strong> <br>
 </p>
 
 <p align="left">
