@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   Hi, my name is Daniel 🌱, i'm <strong>Front-End</strong> developer, despite having my generalist part, native curious always in search for news challenges. I'm avaible for conversations and works, if you need, stay free to contact me.
