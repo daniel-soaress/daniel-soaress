@@ -9,17 +9,17 @@
 <p align="left">
   💬 Skills: <br>
       &nbsp;&nbsp; :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP, Java and SQL.</strong> <br>
-      &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>Electron, Vue.Js, Laravel and Bootstrap.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>React, Electron, Vue.Js, TypeScript, Laravel and Bootstrap.</strong> <br>
       &nbsp;&nbsp; :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong> <br>
       &nbsp;&nbsp; :arrow_forward:	Tools:   <strong>Git, Photoshop and Yarn.</strong> <br>
 </p>
 
 <p align="left">
-  💬 Learning: <strong>Node Js, Express, TypeScript.</strong>
+  💬 Learning: <strong>Node Js, Express.</strong>
 </p>
 
 <p align="left">
-  💬 Interest in learning: <strong>React, React.Native, Python, UX, UI.</strong>
+  💬 Interest in learning: <strong>React.Native, Python, UX, UI.</strong>
 </p>
 
 <p align="left">
