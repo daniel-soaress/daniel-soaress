@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
-  Hi, my name is Daniel 🌱, i'm <strong>Fullstack</strong> developer, despite having my generalist part, native curious always in search for news challenges. I'm avaible for conversations and works, if you need, stay free to contact me.
+  Hello, I'm Daniel 🌱, a <strong>Fullstack</strong>  developer with a passion for taking on new challenges. While I have a generalist skill set, I'm constantly curious and eager to learn about the latest technologies. If you're looking for a conversation or collaboration, feel free to reach out to me. I'm open to new opportunities and excited to work together.
 </p>
 
 <p align="left">
