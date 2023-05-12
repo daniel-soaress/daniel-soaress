@@ -1,6 +1,5 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
   Hello, I'm Daniel 🌱, a <strong>Fullstack</strong>  developer with a passion for taking on new challenges. While I have a generalist skill set, I'm constantly curious and eager to learn about the latest technologies. If you're looking for a conversation or collaboration, feel free to reach out to me. I'm open to new opportunities and excited to work together.
