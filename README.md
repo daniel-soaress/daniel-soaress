@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-    If you want to do a project with me or chat, don't hesitate to send me a message:⤵️
+  Feel free to explore these projects and provide feedback or suggestions. Connect with me on linkedin to collaborate or discuss new ideas. Let's build something awesome together! ⤵️
 </p>
 
 <p align="left">
