@@ -1,3 +1,4 @@
+<p> Welcome to my profile page on GitHub! Here, you'll find information about me and my projects. Feel free to explore and connect with me. </p>  
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
