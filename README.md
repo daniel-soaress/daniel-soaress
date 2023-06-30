@@ -27,8 +27,8 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/lost_dsf/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lost_dsf/"/></a>
+  <a href="https://www.instagram.com/lostcode.js/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lostcode.js/"/></a>
   
   <a href="https://www.linkedin.com/in/daniel-soaress" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-soaress/"/></a>
