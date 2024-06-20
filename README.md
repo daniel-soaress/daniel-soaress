@@ -1,50 +1,23 @@
-<p> Welcome to my profile page on GitHub! Here, you'll find information about me and my projects. Feel free to explore and connect with me. </p>  
+# Welcome to My GitHub Profile! 👋
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left">
-  <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
-  Hello, I'm Daniel 🌱, a <strong>Frontend engineer</strong> with a passion for taking on new challenges. While I have a generalist skill set, I'm constantly curious and eager to learn about the latest technologies. If you're looking for a conversation or collaboration, feel free to reach out to me. I'm open to new opportunities and excited to work together.
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" align="right" alt="Coding GIF">
 </p>
 
-<p align="left">
-  💬 Skills: <br>
-      &nbsp;&nbsp; :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP and SQL.</strong> <br>
-      &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>Vue.Js, TypeScript, Laravel, React, Electron, and Tailwind.</strong> <br>
-      &nbsp;&nbsp; :arrow_forward:	Database: <strong>MySQL, PostgreSQL and MongoDB.</strong> <br>
-</p>
+Hello there, I'm Daniel 🌱, a **Frontend engineer** passionate about tackling new challenges and exploring the latest technologies. Whether you're here to learn more about my projects or to connect for collaboration, I'm thrilled to have you.
 
-<p align="left">
-  💬 Learning: <strong>Node Js</strong>
-</p>
+### About Me
+- 💼 Currently focusing on frontend development with expertise in HTML, CSS, JavaScript, PHP, and SQL.
+- 🚀 Proficient in frameworks like Vue.js, TypeScript, Laravel, React, Electron, and Tailwind CSS.
+- 🛢️ Experienced with databases including MySQL, PostgreSQL, and MongoDB.
+- 🌱 Currently expanding my skills with Node.js.
+- 🔍 Interested in exploring Python, UX, and UI design.
 
-<p align="left">
-  💬 Interest in learning: <strong>Python, UX, UI.</strong>
-</p>
-               
-<p align="left">
-  Feel free to explore these projects and provide feedback or suggestions. Connect with me on linkedin to collaborate or discuss new ideas. Let's build something awesome together! ⤵️
-</p>
+### Projects
+Feel free to explore my projects and provide feedback or suggestions. Let's discuss how we can innovate and build something amazing together!
 
-<p align="left">
-  <a href="https://www.instagram.com/lostcode.js/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lostcode.js/"/></a>
-  
-  <a href="https://www.linkedin.com/in/daniel-soaress" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-soaress/"/></a>
+### Get in Touch
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lostcode/) to collaborate on projects or discuss new ideas. You can also find me on [Instagram](https://www.instagram.com/ilostcode/) for insights into my coding journey.
 
-</p> 
+Let's create impactful solutions and push boundaries in technology! 🚀
 
-<!--
-**DanielSoaress/DanielSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
