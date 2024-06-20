@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" align="right" alt="Coding GIF">
 </p>
 
-Hello there, I'm Daniel 🌱, a **Frontend Developer** passionate about tackling new challenges and exploring the latest technologies. Whether you're here to learn more about my projects or to connect for collaboration, I'm thrilled to have you.
+Hello there, I'm Daniel 🌱, a **Frontend Developer** passionate about tackling new challenges and exploring the latest technologies. Whether you're here to learn more about my projects or to connect for collaboration.
 
 ### About Me
 - 💼 Currently focusing on frontend development with expertise in HTML, CSS, JavaScript, PHP, and SQL.
