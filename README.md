@@ -17,6 +17,6 @@ Hello there, I'm Daniel 🌱, a **Frontend Developer** passionate about tackling
 Feel free to explore my projects and provide feedback or suggestions. Let's discuss how we can innovate and build something amazing together!
 
 ### Get in Touch
-Connect with me on [LinkedIn](https://www.linkedin.com/in/lostcode/) to collaborate on projects or discuss new ideas. You can also find me on [Instagram](https://www.instagram.com/ilostcode/) for insights into my coding journey. Read more about my experiences and thoughts on [Medium](https://medium.com/@ilostcode).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lostcode/) to collaborate on projects or discuss new ideas. You can also find me on [Instagram](https://www.instagram.com/ilostcode/). Read more about my experiences and thoughts on [Medium](https://medium.com/@ilostcode).
 
 Let's create impactful solutions and push boundaries in technology! 🚀
